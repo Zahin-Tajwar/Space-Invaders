@@ -1,5 +1,5 @@
 # Space-Invaders
-A simple 2D game made using Pygame and Python.
+A simple 2D space shooting game made using Pygame and Python.
 ### Requirements:
 - Python 3
 - Pygame
